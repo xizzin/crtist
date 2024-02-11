@@ -7,16 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="_1" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_2" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_3" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="_3_Click"/>
-        <Button x:Name="_4" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_5" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_6" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_7" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_8" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="_9" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24"/>
-        <Button x:Name="ResultBox" Content="Button" HorizontalAlignment="Left" Height="392" Margin="39,0,0,0" VerticalAlignment="Center" Width="695" IsEnabled="False" Visibility="Hidden" Background="#FF3A0C59" BorderBrush="#FFF7F7F7" Foreground="#FFF7F4F4"/>
+        <Button x:Name="_1" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_2" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_3" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,31,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_4" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_5" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_6" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,168,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_7" Content="Button" HorizontalAlignment="Left" Height="110" Margin="165,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_8" Content="Button" HorizontalAlignment="Left" Height="110" Margin="319,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Button x:Name="_9" Content="Button" HorizontalAlignment="Left" Height="110" Margin="477,303,0,0" VerticalAlignment="Top" Width="132" FontSize="24" Click="Player"/>
+        <Rectangle x:Name="firstrowComplete" HorizontalAlignment="Left" Height="24" Margin="165,74,0,0" Stroke="Black" VerticalAlignment="Top" Width="444" Fill="#FFF10C0C" Visibility="Hidden"/>
+        <Rectangle x:Name="secondrowComplete" HorizontalAlignment="Left" Height="24" Margin="163,217,0,0" Stroke="Black" VerticalAlignment="Top" Width="444" Fill="#FFF10C0C" Visibility="Hidden"/>
+        <Rectangle x:Name="thirdRowComplete" HorizontalAlignment="Left" Height="24" Margin="165,346,0,0" Stroke="Black" VerticalAlignment="Top" Width="444" Fill="#FFF10C0C" Visibility="Hidden"/>
 
     </Grid>
 

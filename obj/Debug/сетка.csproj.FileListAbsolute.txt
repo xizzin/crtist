@@ -1,0 +1,15 @@
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.csproj.AssemblyReference.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\App.g.cs
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка_MarkupCompile.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\bin\Debug\сетка.exe.config
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\bin\Debug\сетка.exe
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\bin\Debug\сетка.pdb
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\MainWindow.g.cs
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка_MarkupCompile.lref
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\MainWindow.baml
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.g.resources
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.Properties.Resources.resources
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.csproj.GenerateResource.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.csproj.CoreCompileInputs.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.exe
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\сетка\obj\Debug\сетка.pdb
